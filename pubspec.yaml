@@ -34,6 +34,9 @@ dependencies:
   cupertino_icons: ^1.0.4
   font_awesome_flutter: ^9.2.0
 
+  # sign_in_button
+  flutter_signin_button: ^2.0.0
+
   # package_info
   package_info_plus: ^1.4.0
 
@@ -54,6 +57,7 @@ dependencies:
 
   # device_preview
   device_preview: ^1.0.0
+  flutter_line_sdk: ^2.1.0
 
 
 dev_dependencies:

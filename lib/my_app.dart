@@ -1,7 +1,6 @@
 import 'package:device_preview/device_preview.dart';
-
 import 'package:flutter/material.dart';
-import 'package:flutter_line_sdk_playground/view/page/home_page.dart';
+import 'package:flutter_line_sdk_playground/view/page/register_page.dart';
 
 
 class MyApp extends StatelessWidget {
@@ -17,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'flutter_line_sdk_playground',
       theme: ThemeData.light(),
       darkTheme: ThemeData.dark(),
-      home: const HomePage(),
+      home: const RegisterPage(),
     );
   }
 }
